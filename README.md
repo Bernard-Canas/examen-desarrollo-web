@@ -1,6 +1,7 @@
-# 📚 AgendCanas (Frontend)
+# 📚 AgendCanas - PROYECTO
 # Creado por: Bernardo Canas
 # Examen Final  DESARROLLO WEB
+# Explicación: https://youtu.be/2mOf1oTHFpQ
 
 **AgendCanas** es una aplicación web de planificación académica inteligente diseñada para ayudar a los estudiantes universitarios a gestionar su carga de trabajo, combatir la procrastinación y priorizar tareas basándose en su impacto real en la nota final.
 
